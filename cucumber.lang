@@ -11,4 +11,4 @@ variable start "I wish to"
 variable start "I can"
 variable start "So that"
 
-keyword = "Given|When|Then|And"
+keyword = "Given|When|Then|And|But"

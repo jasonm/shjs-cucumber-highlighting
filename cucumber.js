@@ -54,7 +54,7 @@ sh_languages['cucumber'] = [
       1
     ],
     [
-      /\b(?:Given|When|Then|And)\b/g,
+      /\b(?:Given|When|Then|And|But)\b/g,
       'sh_keyword',
       -1
     ]
